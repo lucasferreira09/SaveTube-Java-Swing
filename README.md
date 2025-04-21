@@ -18,23 +18,23 @@
 ##
 ## 🤔 How to use?
 
-### 🔗 All you have to do is past the link in the rectangular box next to download image and click in SEARCH.
-### 🚫 Please don't use direct playlist links—they are not supported. However, if it's a video from a playlist, then it's supported.
+#### 🔗 All you have to do is past the link in the rectangular box next to download image and click in SEARCH.
+#### 🚫 Please don't use direct playlist links—they are not supported. However, if it's a video from a playlist, then it's supported.
 
-### 👀 Take a look
-![PASTE-LINK](screenshots\paste_link_video.png)
+#### 👀 Take a look
+![PASTE-LINK](screenshots/paste_link_video.png)
 
 ##
 
 ## 📂 You can choose the download location too.
-![DOWNLOAD-PATH](screenshots\download_path.png)
+![DOWNLOAD-PATH](screenshots/download_path.png)
 
 ##
 
 
 ## ⌛Once you have pasted the link and waited a little time. The app will show you the available video options.
 
-![VIDEOS-OPTIONS](screenshots\video_options.png)
+![VIDEOS-OPTIONS](screenshots/video_options.png)
 
 ##
 
