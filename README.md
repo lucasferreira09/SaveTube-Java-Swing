@@ -1,34 +1,20 @@
 <div align="center"> 
-<<<<<<< Updated upstream
-<h1> SaveTube </h1>
-=======
-<<<<<<< HEAD
 <h1> <span style="color:red"> SaveTube </span> </h1>
 </div>
-=======
-<h1> SaveTube </h1>
->>>>>>> 4f6db116365a02b427f75fab0dee75b430713b58
->>>>>>> Stashed changes
-  
+
+#
+
+<div align="center">
+
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+## Download videos and audios from YouTube for free and without ads!
 </div>
 
 
-### Download videos and audios from YouTube for free and without ads!
 ### ⚠️ Due to copyright reasons, i won't release the app. I'll just share some screenshots, the project structure and the technologies I used and how it works. Cool?
 ##
 
-<<<<<<< HEAD
-=======
-## 📂 Project Structure
-
-![Project-Structure](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/02036f427120fe979e2be07695e98970a9f3545a/screenshots/project_structure.png)
-##
-## 🤖 Technologies used
-
-> ### Jawa Swing | Yt-dlp | Ffmpeg | ProcessBuilder | BufferedReader | Threads | Callback | MVC Pattern
-
->>>>>>> 4f6db116365a02b427f75fab0dee75b430713b58
 ##
 ## 🤔 How to use?
 
@@ -48,24 +34,21 @@
 
 ## ⌛Once you have pasted the link and waited a little time. The app will show you the available video options.
 
-![VIDEOS-OPTIONS](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/02036f427120fe979e2be07695e98970a9f3545a/screenshots/video_options.png)
+![VIDEOS-OPTIONS](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/b0eb2b8cfca339efce0dd4cb3784325ee7f7d629/screenshots/video_options.png)
 
 ##
 
 
 ## 🎵 You can download only the audio, if you want to.
-<<<<<<< Updated upstream
 ![AUDIO](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/02036f427120fe979e2be07695e98970a9f3545a/screenshots/audio.png)
-=======
-<<<<<<< HEAD
-![AUDIO](screenshots\audio.png)
 
 #
 # ✍️ **CREATION**
 #
 ## 📂 Project Structure
 
-![Project-Structure](screenshots/project_structure.png)
+![Project-Structure](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/b0eb2b8cfca339efce0dd4cb3784325ee7f7d629/screenshots/project_structure.png)
+
 ##
 ## 🤖 Technologies used
 
@@ -78,11 +61,11 @@
 ### Then process it, and show only what is necessary to the user, in a cool interface.
 
 ## Like this👇
-![YTDLP-RETURN](screenshots/ytdlp_return_information.png)
+![YTDLP-RETURN](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/b0eb2b8cfca339efce0dd4cb3784325ee7f7d629/screenshots/ytdlp_return_information.png)
 
 ## The  <span style="color:red"> **getInformationEachVideo()** </span> method of the DownloaderSystem class takes this function. It retrieves the **title, quality, size, code and thumbnail.**
 
-![DOWNLOADER-SYSTEM-CLASS](screenshots/downloader_system_class.png)
+![DOWNLOADER-SYSTEM-CLASS](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/b0eb2b8cfca339efce0dd4cb3784325ee7f7d629/screenshots/downloader_system_class.png)
 
 ## The <span style="color:red"> **DownloaderSystem** </span> class from the model package is the application's heart. It <span style="color:red"> **handles everything related to processing video and audio data**</span>. Without it, there would be no application.
 
@@ -103,18 +86,3 @@
 #
 ## 🖥️ Then, the controller's methods will display each video option of this HashMap to the user in a cool interface.
 
-
-
-
-
-
-
-
-
-
-
-
-=======
-![AUDIO](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/02036f427120fe979e2be07695e98970a9f3545a/screenshots/audio.png)
->>>>>>> 4f6db116365a02b427f75fab0dee75b430713b58
->>>>>>> Stashed changes
