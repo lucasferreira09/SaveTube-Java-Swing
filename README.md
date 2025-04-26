@@ -67,15 +67,15 @@
 
 ![DOWNLOADER-SYSTEM-CLASS](https://github.com/lucasferreira09/SaveTube-Java-Swing/blob/b0eb2b8cfca339efce0dd4cb3784325ee7f7d629/screenshots/downloader_system_class.png)
 
-## The <span style="color:red"> **DownloaderSystem** </span> class from the model package is the application's heart. It <span style="color:red"> **handles everything related to processing video and audio data**</span>. Without it, there would be no application.
+### 🔴 The _**DownloaderSystem**_ class from the model package is the application's heart. It _**handles everything related to processing video and audio data**_. Without it, there would be no application.
 
-### All of the information that Ytdlp returns is stored in an ArrayList.
-### The line contains the code, quality, size and other irrelevant information. So, I have to extract this for each video option.
+### 🔴 All of the information that Ytdlp returns is stored in an ArrayList.
+### The line contains the _**code, quality, size and other irrelevant information**_. So, I have to extract this for each video option.
 ### Each video option's quality is added to a HashMap as a key and the value for that key is an ArrayList containing the code and size of the corresponding video option.
 
-> ### For example, suppose this is a line that Ytdlp returns:
-> ### <span style="color:red">  -- 323 mp4 1920x1080 00 | 500mb 434k m3u8 | dsds.234434 3245k video_only </span>
-> ### I need to extract '323', '1920x1080' and '500mb'
+> ### ⚠️**For example, suppose this is a line that Ytdlp returns:**
+> ### **323 mp4 1920x1080 00 | 500mb 434k m3u8 | dsds.234434 3245k video_only**
+> ### 👉**I need to extract '323', '1920x1080' and '500mb'**
 
 ### 
 ### Then, put it into the HashMap, like this:
