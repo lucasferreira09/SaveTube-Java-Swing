@@ -12,8 +12,8 @@
 </div>
 
 
-### ⚠️ Due to copyright reasons, i won't release the app. I'll just share some screenshots, the project structure and the technologies I used and how it works. Cool?
-##
+## ⚠️ This project is only for academic purposes!
+## Application: https://github.com/lucasferreira09/Video-Downloader-Swing.git
 
 ##
 ## 🤔 How to use?
